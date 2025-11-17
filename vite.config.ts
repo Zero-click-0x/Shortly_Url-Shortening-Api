@@ -3,5 +3,5 @@ import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
   plugins: [tailwindcss()],
-  base: "./",
+  base: "/Shortly_Url-Shortening-Api/",
 });

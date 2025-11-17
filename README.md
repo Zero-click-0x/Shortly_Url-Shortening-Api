@@ -4,7 +4,7 @@ A clean, responsive frontend project for a URL shortening service integrating th
 
 ## 🚀 Live Demo
 
-[View Live Site](https://zero-click-0x.github.io/Projects_Web-Development/Url-Shortening-Api/)
+[View Live Site](https://zero-click-0x.github.io/Url-Shortening-Api/)
 
 ## 📋 Project Overview
 
